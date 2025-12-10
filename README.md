@@ -1,1 +1,1 @@
-# gen-ai
+his project leverages Generative AI (GenAI) to build intelligent, adaptable, and creative applications. It uses modern LLMs and supporting tools to generate text, perform reasoning, and integrate AI capabilities into real-world workflows.
